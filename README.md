@@ -1,4 +1,4 @@
-# Gaussian Process on Parkinson
+# Gaussian Process Regression on Parkinson
 
 This repository contains an implementation of Gaussian Process Regression (GPR) for the estimation of total Unified Parkinson's Disease Rating Scale (UPDRS) from patient voice recordings. The results are compared with a linear regression model to demonstrate the superiority of GPR. You can find the detailed information on the `Gaussian Process on Parkinson.pdf` file.
 
